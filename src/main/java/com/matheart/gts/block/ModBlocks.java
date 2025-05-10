@@ -25,6 +25,7 @@ public class ModBlocks {
 
     // this is history 1
     // this is history 2
+    // this is history 3
 
     private static Block registerBlocks(String name, Block block) {
         registerBlcokItems(name, block);
