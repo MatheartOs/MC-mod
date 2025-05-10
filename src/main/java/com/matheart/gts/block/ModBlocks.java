@@ -24,6 +24,7 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.STONE)));
 
     // this is history 1
+    // this is history 2
 
     private static Block registerBlocks(String name, Block block) {
         registerBlcokItems(name, block);
