@@ -23,10 +23,7 @@ public class ModBlocks {
     public static final Block MLE = registerBlocks("mle",
             new Block(FabricBlockSettings.copyOf(Blocks.STONE)));
 
- HEAD
     // history 1 branch
-
- 257c17b521936e4480a8f066c93af8a9712a8f17
 
     private static Block registerBlocks(String name, Block block) {
         registerBlcokItems(name, block);
