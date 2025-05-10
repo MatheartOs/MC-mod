@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "GTS_GROUP",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "gts:mb_100"
+    }
+  },
+  "result": {
+    "item": "gts:mle"
+  }
+}

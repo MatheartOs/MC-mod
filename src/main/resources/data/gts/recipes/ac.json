@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "GTS_GROUP",
+  "pattern": [
+    "###",
+    "#@$",
+    "$$$"
+  ],
+  "key": {
+    "#": {
+      "item": "gts:ms_100"
+    },
+    "@": {
+      "item": "gts:ac_core"
+    },
+    "$": {
+      "item": "gts:mb_100"
+    }
+  },
+  "result": {
+    "item": "gts:ac"
+  }
+}

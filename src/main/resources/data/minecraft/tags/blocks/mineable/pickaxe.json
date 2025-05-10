@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "gts:tle",
+    "gts:mle",
+    "gts:ac"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "gts",
+	"version": "${version}",
+	"name": "GTS",
+	"description": "这是模组描述喵~",
+	"authors": [
+		"Matheart"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/gts/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.matheart.gts.GTS"
+		],
+		"client": [
+			"com.matheart.gts.GTSClient"
+		],
+		"fabric-datagen": [
+			"com.matheart.gts.GTSDataGenerator"
+		]
+	},
+	"mixins": [
+		"gts.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
