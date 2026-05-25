@@ -1,5 +1,3 @@
-README.md
-MC Fabric 模组开发实战
 基于 Minecraft 1.20.1 / Fabric Loader 的个人模组开发练习项目。
 
 ---
